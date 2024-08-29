@@ -6,7 +6,7 @@
 
 void Print( ) const
 {
-	
+	std::cout << "hello" << std::endl;
 }
 
 void main()
